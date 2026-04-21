@@ -31,7 +31,7 @@ export default function LandingPage() {
   }
 
   return (
-    <main className="min-h-screen flex flex-col" style={{ background: '#0d1f12' }}>
+    <main className="min-h-screen flex flex-col max-w-sm mx-auto w-full" style={{ background: '#0d1f12' }}>
       {/* Header */}
       <div className="flex items-center justify-between px-6 pt-12 pb-2">
         <div className="flex items-center gap-2">
