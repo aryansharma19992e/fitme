@@ -1,0 +1,1 @@
+// Progress chart components — placeholder
